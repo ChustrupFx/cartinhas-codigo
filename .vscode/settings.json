@@ -1,5 +1,18 @@
 {
     "files.associations": {
-        "includes.h": "c"
-    }
+        "homepage.h": "c",
+        "helpers.h": "c",
+        "pagerenderer.h": "c",
+        "stdio.h": "c",
+        "console.h": "c",
+        "database.h": "c",
+        "godfather.h": "c",
+        "kid.h": "c",
+        "stdlib.h": "c",
+        "godfathermodel.h": "c",
+        "kidmodel.h": "c",
+        "logingodfatherpage.h": "c",
+        "string.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }

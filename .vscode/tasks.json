@@ -8,6 +8,10 @@
                 "-fdiagnostics-color=always",
                 "-g",
                 "${file}",
+                "libs/*.c",
+                "pages/*.c",
+                "database/*.c",
+                "database/models/*.c",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
             ],
